@@ -14,9 +14,7 @@ This folder contains the Alignment Plotter, software to visualize the annotation
 [RegionLabeler](https://drive.google.com/open?id=1aqrJ0zx5kCqbjyVppK2bFYs7xw2RNHn6)
 
 # License
-[SNAGLicense.pdf](https://drive.google.com/file/d/1cwfBewJSUlUGwr_mEJzxqayz-FkhIT6h/view?usp=sharing)
-
-[RegionLabelerLicense.pdf](https://drive.google.com/file/d/1LpmSMNu1s0S8U3-EcYB3ANvS9K0n2wHd/view?usp=sharing)
+[AnnotationPlotterLicense.pdf](https://drive.google.com/file/d/1LpmSMNu1s0S8U3-EcYB3ANvS9K0n2wHd/view?usp=sharing)
 
 # Citation and Contact
 Please cite our paper when you use this framework or parts of it:
