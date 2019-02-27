@@ -46,13 +46,7 @@ Please cite our paper when you use this framework or parts of it:
 
 Vaidyanathan, P., Prud'hommeaux, E., Alm, C. O., and Pelz, J. B., Computational framework for fusing eye movements and spoken narratives for image annotation, Submitted or the following bibtex:
 
-@InProceedings{P18-2022,
-  author = 	"Vaidyanathan, Preethi  
-		and Prud'hommeaux, Emily T.		
-		and Alm, Cecilia O.		
-		and Pelz, Jeff B.",		
-  title = 	"Computational framework for fusing eye movements and spoken narratives for image annotation" 
-}
+Coming soon!
 
 
 For any questions about this dataset or software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
