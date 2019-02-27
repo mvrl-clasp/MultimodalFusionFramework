@@ -1,7 +1,7 @@
-# SNAG
+# Computational framework for fusing eye movements and spoken narratives for image annotation
 SNAG is a multimodal dataset consisting of co-collected eye movements and spoken descriptions produced during an image-inspection task. This dataset was collected from 30 observers whose eye movements and spoken descriptions were recorded as they inspected and describing 100 general-domain images. We also provide an image annotation tool (RegionLabeler) for manually labeling image regions with words. This dataset and the annotation tool were collected and developed by a group of researchers associated with the [Multidisciplinary Vision Research Lab](http://mvrl.cis.rit.edu/) and [Computational Linguistics and Speech Processing Lab](https://www.rit.edu/clasp/) at Rochester Institute of Technology.
 
-![Raw data](https://raw.githubusercontent.com/mvrl-clasp/SNAG/master/thesissnagrawdata.jpg)
+![Raw data](https://raw.githubusercontent.com/mvrl-clasp/MultimodalFusionFramework/master/thesis_snag2.jpg)
 
 
 # Description of the dataset
@@ -42,22 +42,16 @@ This folder contains RegionLabeler, the image annotation user interface as brief
 [RegionLabelerLicense.pdf](https://drive.google.com/file/d/1LpmSMNu1s0S8U3-EcYB3ANvS9K0n2wHd/view?usp=sharing)
 
 # Citation and Contact
-Please cite our paper when you use this dataset or the image anotation software:
+Please cite our paper when you use this framework or parts of it:
 
-Vaidyanathan, P., Prud'hommeaux, E., Pelz, J. B., and Alm, C. O., SNAG: Spoken Narratives and Gaze Dataset, Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, Vol 2, pp. 132-137 or the following bibtex:
+Vaidyanathan, P., Prud'hommeaux, E., Alm, C. O., and Pelz, J. B., Computational framework for fusing eye movements and spoken narratives for image annotation, Submitted or the following bibtex:
 
 @InProceedings{P18-2022,
   author = 	"Vaidyanathan, Preethi  
 		and Prud'hommeaux, Emily T.		
-		and Pelz, Jeff B.		
-		and Alm, Cecilia O.",		
-  title = 	"SNAG: Spoken Narratives and Gaze Dataset",  
-  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",  
-  year = 	"2018",  
-  publisher = 	"Association for Computational Linguistics",  
-  pages = 	"132--137",  
-  location = 	"Melbourne, Australia",  
-  url = 	"http://aclweb.org/anthology/P18-2022"  
+		and Alm, Cecilia O.		
+		and Pelz, Jeff B.",		
+  title = 	"Computational framework for fusing eye movements and spoken narratives for image annotation" 
 }
 
 
