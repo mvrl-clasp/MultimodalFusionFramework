@@ -6,10 +6,9 @@ This framework and the visualization tool were developed by a group of researche
 
 
 # Alignment Plotter: Annotation visualizer
-This folder contains the Alignment Plotter, software to visualize the annotations. For more information, please refer to the README.txt within the folder. 
+This folder contains the Alignment Plotter, software code to visualize the annotations. For more information, please refer to the README.txt within the folder. 
 
 # Downloads  
-[SNAG Dataset](https://drive.google.com/open?id=1f7dg_VkpYikxzjnlNGuUrUrC4BCm2nDS)
 
 [RegionLabeler](https://drive.google.com/open?id=1aqrJ0zx5kCqbjyVppK2bFYs7xw2RNHn6)
 
