@@ -13,7 +13,7 @@ This folder contains the Alignment Plotter, software code to visualize the annot
 [AlignmentPlotter](https://drive.google.com/drive/folders/1nnB3LPdQIQ7j0U9G6uLKm1uhVKk8iaJ3)
 
 # License
-[AlignmentPlotterLicense.pdf](https://drive.google.com/drive/folders/1MAxcwscBqHiCTj4JSl-yfY8Wagbi7iCm)
+[AlignmentPlotterLicense.pdf](https://drive.google.com/drive/folders/1atv9TIhAraN3jgdPVQ6CPQ8cTHuOsiH7)
 
 # Citation and Contact
 Please cite our paper when you use this framework or parts of it:
