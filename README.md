@@ -14,8 +14,8 @@ This folder contains the Alignment Plotter, software code to visualize the annot
 
 [VLSAFramework](https://drive.google.com/drive/folders/1QbrnSsqh78mERLyUjHp1OtG8BZau6_z7)
 
-# License
-[AlignmentPlotterLicense.pdf](https://drive.google.com/drive/folders/1atv9TIhAraN3jgdPVQ6CPQ8cTHuOsiH7)
+# Disclaimer
+[Disclaimer.pdf](https://drive.google.com/drive/folders/1atv9TIhAraN3jgdPVQ6CPQ8cTHuOsiH7)
 
 # Citation and Contact
 Please cite our paper when you use this framework or parts of it:
