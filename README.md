@@ -3,7 +3,7 @@ The Visual-linguisitc semantic alignment (VLSA) framework and the visualization 
 
 ![Raw data](https://raw.githubusercontent.com/mvrl-clasp/MultimodalFusionFramework/master/thesis_snag2.jpg)
 
-
+![Raw data](https://github.com/mvrl-clasp/MultimodalFusionFramework/blob/master/exmplefigure.png)
 
 # Alignment Plotter: Annotation visualizer
 This folder contains the Alignment Plotter, software code to visualize the annotations. For more information, please refer to the README.txt within the folder. 
