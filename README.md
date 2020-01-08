@@ -1,7 +1,7 @@
 # Visual-Linguistic Semantic Alignment
 The Visual-linguisitc semantic alignment (VLSA) framework and the visualization tool were developed by a group of researchers associated with the [Multidisciplinary Vision Research Lab](http://mvrl.cis.rit.edu/) and [Computational Linguistics and Speech Processing Lab](https://www.rit.edu/clasp/) at Rochester Institute of Technology.
 
-![Raw data](https://raw.githubusercontent.com/mvrl-clasp/MultimodalFusionFramework/master/thesis_snag2.jpg)
+#![Raw data](https://raw.githubusercontent.com/mvrl-clasp/MultimodalFusionFramework/master/thesis_snag2.jpg)
 
 ![Raw data](https://github.com/mvrl-clasp/MultimodalFusionFramework/blob/master/thesis_snagFig19.png)
 
