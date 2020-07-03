@@ -15,7 +15,7 @@ This folder contains the Alignment Plotter, software code to visualize the annot
 [AlignmentPlotter](https://drive.google.com/drive/folders/1nnB3LPdQIQ7j0U9G6uLKm1uhVKk8iaJ3)
 
 # Disclaimer
-[Disclaimer.pdf](https://drive.google.com/drive/folders/1atv9TIhAraN3jgdPVQ6CPQ8cTHuOsiH7)
+[AlignmentPlotterLicenses.pdf](https://drive.google.com/drive/folders/1atv9TIhAraN3jgdPVQ6CPQ8cTHuOsiH7)
 
 # Citation and Contact
 Please cite our paper when you use this framework or parts of it:
@@ -23,6 +23,16 @@ Please cite our paper when you use this framework or parts of it:
 Vaidyanathan, P., Prud’hommeaux, E., Alm, C. O., & Pelz, J. B. (2020). Computational framework for fusing eye movements
 and spoken narratives for image annotation. Journal of Vision, 00(0):06788, 1–28.
 
+@article{Vaidyanathan2020Computational,
+  title={Computational framework for fusing eye movements and spoken narratives for image annotation},
+  author={Vaidyanathan, P., Prud’hommeaux, E., Alm, C. O., & Pelz, J. B.},
+  journal={Journal of Vision},
+  volume={00(0)},
+  number={06788},
+  pages={1--28},
+  year={2020},
+  publisher={Association for Research in Vision and Ophthalmology}
+}
 
 For any questions about this dataset or software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
  
