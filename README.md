@@ -5,19 +5,19 @@ The Visual-linguisitc semantic alignment (VLSA) framework and the visualization 
 
 There are four folders in the downloaded folder. A Readme file accompanies these folders and details out all the steps required to execute the framework excluding data collection. 
 
-#1. VLSACode:
+#### 1. VLSACode:
 
 This folder consists of all the software code to run the framework. There are two main bash files that can be used to execute the entire framework. The bash files call other sub programs that are mostly in Python and a few in MATLAB. Please note Python 2.7 was used to code the scripts and necessary changes would have to be made to migrate them to Python 3. 
 
 This folder comes with the BerkeleyAligner and BerkeleyParser with the English grammer database. 
 
-#2. VLSAData:
+#### 2. VLSAData:
 
 This folder consists of example files for data that is required for each step up to the step before applying the Berkeley aligner. The Readme exaplins in detail what data is need at which step. It also has a folder for the reference alignments (ground truth) that can be obtained using the RegionLabeler software provided n this website [SNAG](https://mvrl-clasp.github.io/SNAG/).
 
-#3. VLSAUnits:
+#### 3. VLSAUnits:
 
-#4. ALignmentPlotter: 
+#### 4. ALignmentPlotter: 
 
 For ease, the Alignment Plotter is included in the VLSA framework folder. For more details on this folder see below.
 
