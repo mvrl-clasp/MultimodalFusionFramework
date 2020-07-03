@@ -18,9 +18,8 @@ This folder contains the Alignment Plotter, software code to visualize the annot
 # Citation and Contact
 Please cite our paper when you use this framework or parts of it:
 
-Vaidyanathan, P., Prud'hommeaux, E., Alm, C. O., and Pelz, J. B., Computational framework for fusing eye movements and spoken narratives for image annotation, Submitted or the following bibtex:
-
-Coming soon!
+Vaidyanathan, P., Prud’hommeaux, E., Alm, C. O., & Pelz, J. B. (2020). Computational framework for fusing eye movements
+and spoken narratives for image annotation. Journal of Vision, 00(0):06788, 1–28.
 
 
 For any questions about this dataset or software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
