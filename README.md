@@ -35,7 +35,7 @@ This folder contains the Alignment Plotter, which is a MATLAB program to visuali
 [AlignmentPlotter](https://drive.google.com/drive/folders/1nnB3LPdQIQ7j0U9G6uLKm1uhVKk8iaJ3)
 
 # License
-[VLSAFrameworkLicenses.pdf](https://drive.google.com/file/d/1Anj-cPYv62vISyvKC1vva55aHXi6ssRN/view?usp=sharing)
+[VLSAFrameworkLicenses.pdf](https://drive.google.com/file/d/1Anj-cPYv62vISyvKC1vva55aHXi6ssRN/view?usp=sharing) 
 
 [AlignmentPlotterLicense.pdf](https://drive.google.com/file/d/1vWHmmqu736zNrex2I33sRNZdLhNVv2YS/view?usp=sharing)
 
