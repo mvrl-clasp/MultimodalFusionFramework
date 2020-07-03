@@ -11,11 +11,15 @@ This folder consists of all the software code to run the framework. There are tw
 
 This folder comes with the BerkeleyAligner and BerkeleyParser with the English grammer database. 
 
+All codes are programmed to work with the current data, file, and folder format as provided in the VLSAData and VLSAUnits folders. Changes in the directory tree, filenames, and data format will have to be accomodated in the respective code for execution without error.
+
 #### 2. VLSAData:
 
-This folder consists of example files for data that is required for each step up to the step before applying the Berkeley aligner. The Readme exaplins in detail what data is need at which step. It also has a folder for the reference alignments (ground truth) that can be obtained using the RegionLabeler software provided n this website [SNAG](https://mvrl-clasp.github.io/SNAG/).
+This folder consists of example files for data that is required for each step up to the step before applying the Berkeley aligner. The Readme explains in detail what data is need at which step. It also has a folder for the reference alignments (ground truth) that can be obtained using the RegionLabeler software provided on this website [SNAG](https://mvrl-clasp.github.io/SNAG/).
 
-#### 3. VLSAUnits:
+#### 3. VLSAUnits: 
+
+This folder consists of the example output from the BerkeleyAligner when applied to the appropriate data present in the VLSAData folder. It also consists of the example Baseline and Reference output that is then used by the framework to calculate the performance metrics. 
 
 #### 4. ALignmentPlotter: 
 
