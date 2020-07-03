@@ -56,5 +56,5 @@ and spoken narratives for image annotation. Journal of Vision, 00(0):06788, 1–
   publisher={Association for Research in Vision and Ophthalmology}
 }
 
-For any questions about this dataset or software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
+For any questions about this software please contact Preethi Vaidyanathan at pxv1621@rit.edu.
  
